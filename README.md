@@ -24,3 +24,7 @@ Players with only the "chickenfeed.use" permission: Right-click a chicken → no
 Players with both "chickenfeed.use" and "chickenfeed.notify" permissions: Right-click a chicken → normal item drops, and see success or cooldown messages.
 
 OPs with chickenfeed.reload permission: can use "/chickenfeed reload" to reload the configuration.
+
+作品在Releases里面
+
+The work is in Releases
